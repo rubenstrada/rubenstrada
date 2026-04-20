@@ -4,14 +4,14 @@
 
 Building analytics infrastructure for logistics & transportation — from raw ERP extracts to executive dashboards, and now moving toward predictive modeling in production.
 
-<br>
-
-<img align="right" alt="coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+---
 
 ### About me
 
-```python
-class Ruben:
+<table>
+  <tr>
+    <td valign="top" width="58%">
+      <pre><code>class Ruben:
     role      = "Data Analyst"
     next_step = "Data Scientist"
     based_in  = "Monterrey, MX"
@@ -27,10 +27,17 @@ class Ruben:
     certified = "IBM Data Engineering"
 
     def open_to(self):
-        return "DA / DS roles @ industrial & tech corps"
-```
-
-<br clear="both">
+        return "DA / DS roles @ industrial & tech corps"</code></pre>
+    </td>
+    <td valign="top" width="42%">
+      <img
+        alt="Coding"
+        width="320"
+        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+      />
+    </td>
+  </tr>
+</table>
 
 ### Tech Stack
 
@@ -48,7 +55,7 @@ class Ruben:
 
 **Cloud & Data Platforms**  
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **BI & Tooling**  
@@ -56,15 +63,11 @@ class Ruben:
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br>
-
 ### Currently
 
 - Probabilistic modeling & Bayesian inference → *MITx 6.431x*
-- Analytics engineering patterns (dimensional modeling, pre-aggregated tables)
+- Analytics engineering patterns: dimensional modeling and pre-aggregated tables
 - Building a portfolio of end-to-end ML projects
-
-<br>
 
 ### Connect
 
