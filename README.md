@@ -64,9 +64,20 @@ Building analytics infrastructure for logistics and transportation, from ERP-bas
 
 ### Currently
 
-- 🧠 Studying probabilistic modeling and Bayesian inference through **MITx 6.431x**
-- 🏗️ Strengthening analytics engineering skills, including dimensional modeling and pre-aggregated tables
-- 🚀 Building a portfolio of end-to-end machine learning projects
+<p>
+  <img src="https://img.icons8.com/ios-filled/24/1A1A1A/brain.png" alt="Brain" width="18" />
+  Studying probabilistic modeling and Bayesian inference through <strong>MITx 6.431x</strong>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/ios-filled/24/1A1A1A/combo-chart--v1.png" alt="Analytics Engineering" width="18" />
+  Strengthening analytics engineering skills, including dimensional modeling and pre-aggregated tables
+</p>
+
+<p>
+  <img src="https://img.icons8.com/ios-filled/24/1A1A1A/rocket.png" alt="Projects" width="18" />
+  Building a portfolio of end-to-end machine learning projects
+</p>
 
 ### Connect
 
