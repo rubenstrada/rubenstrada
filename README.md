@@ -1,8 +1,8 @@
 # Rubén Estrada
 
-**Data Analyst transition into Data Science | Python | SQL | Machine Learning | Statistical Modeling | Data Science**
+**Data Analyst | Python | SQL | Machine Learning | Statistical Modeling | Data Science**
 
-Building analytics infrastructure for logistics & transportation — from ERP extracts to executive dashboards and toward predictive modeling in production.
+Building analytics infrastructure for logistics and transportation, from ERP-based data extraction and executive reporting to analytical workflows and predictive use cases.
 
 ---
 
@@ -10,10 +10,10 @@ Building analytics infrastructure for logistics & transportation — from ERP ex
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- Data Analyst transitioning into Data Science
+- Data Analyst with a strong focus on Data Science
 - Based in Monterrey, Mexico
 - Focused on analytics engineering, applied statistics, and cloud data platforms
-- Working in logistics & transportation
+- Working in logistics and transportation
 - Studying **MITx — Statistics & Data Science**
 - Certified in **IBM Data Engineering**
 - Open to **Data Analyst / Data Scientist** roles in industrial and tech companies
@@ -64,9 +64,9 @@ Building analytics infrastructure for logistics & transportation — from ERP ex
 
 ### Currently
 
-- 🧠 Probabilistic modeling & Bayesian inference with **MITx 6.431x**
-- 🏗️ Learning analytics engineering: dimensional modeling and pre-aggregated tables
-- 🚀 Building a portfolio of end-to-end ML projects
+- 🧠 Studying probabilistic modeling and Bayesian inference through **MITx 6.431x**
+- 🏗️ Strengthening analytics engineering skills, including dimensional modeling and pre-aggregated tables
+- 🚀 Building a portfolio of end-to-end machine learning projects
 
 ### Connect
 
