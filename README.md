@@ -33,79 +33,56 @@ Building analytics infrastructure for logistics & transportation — from raw ER
 
 ### Tech Stack
 
-<table>
-  <tr>
-    <td colspan="5"><strong>Languages</strong></td>
-  </tr>
-  <tr>
-    <td align="center" width="94">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" /><br>Python
-    </td>
-    <td align="center" width="94">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="SQL" /><br>SQL
-    </td>
-    <td align="center" width="94">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="42" height="42" alt="Bash" /><br>Bash
-    </td>
-    <td width="94"></td>
-    <td width="94"></td>
-  </tr>
+**Languages**  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="42" height="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL" title="SQL" width="42" height="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="42" height="42" />
+</p>
+<sub>Python • SQL • Bash</sub>
 
-  <tr>
-    <td colspan="5"><strong>Data Science &amp; ML</strong></td>
-  </tr>
-  <tr>
-    <td align="center" width="94">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas" /><br>Pandas
-    </td>
-    <td align="center" width="94">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy" /><br>NumPy
-    </td>
-    <td align="center" width="94">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" alt="scikit-learn" /><br>scikit-learn
-    </td>
-    <td align="center" width="94">
-      <img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="42" height="42" alt="SciPy" /><br>SciPy
-    </td>
-    <td align="center" width="94">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="42" height="42" alt="Jupyter" /><br>Jupyter
-    </td>
-  </tr>
+<br>
 
-  <tr>
-    <td colspan="5"><strong>Cloud &amp; Data Platforms</strong></td>
-  </tr>
-  <tr>
-    <td align="center" width="94">
-      <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="42" height="42" alt="BigQuery" /><br>BigQuery
-    </td>
-    <td align="center" width="94">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="42" height="42" alt="Google Cloud" /><br>Google Cloud
-    </td>
-    <td align="center" width="94">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="42" height="42" alt="Azure" /><br>Azure
-    </td>
-    <td width="94"></td>
-    <td width="94"></td>
-  </tr>
+**Data Science & ML**  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="42" height="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="42" height="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" width="42" height="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scipy/8CAAE6" alt="SciPy" title="SciPy" width="42" height="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="42" height="42" />
+</p>
+<sub>Pandas • NumPy • scikit-learn • SciPy • Jupyter</sub>
 
-  <tr>
-    <td colspan="5"><strong>BI &amp; Tooling</strong></td>
-  </tr>
-  <tr>
-    <td align="center" width="94">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="42" height="42" alt="Power BI" /><br>Power BI
-    </td>
-    <td align="center" width="94">
-      <img src="https://cdn.simpleicons.org/looker/4285F4" width="42" height="42" alt="Looker Studio" /><br>Looker Studio
-    </td>
-    <td align="center" width="94">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git" /><br>Git
-    </td>
-    <td width="94"></td>
-    <td width="94"></td>
-  </tr>
-</table>
+<br>
+
+**Cloud & Data Platforms**  
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" title="BigQuery" width="42" height="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" title="Google Cloud" width="42" height="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="42" height="42" />
+</p>
+<sub>BigQuery • Google Cloud • Azure</sub>
+
+<br>
+
+**BI & Tooling**  
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" title="Power BI" width="42" height="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/looker/4285F4" alt="Looker Studio" title="Looker Studio" width="42" height="42" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="42" height="42" />
+</p>
+<sub>Power BI • Looker Studio • Git</sub>
+
 
 ### Currently
 
