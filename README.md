@@ -12,12 +12,12 @@
 class RubenEstrada:
     def __init__(self):
         self.role       = "Data Analyst"
-        self.location   = "Monterrey, MX 🇲🇽"
+        self.location   = "Monterrey, México"
         self.industry   = "Logistics & Transportation"
         self.learning   = ["MITx MicroMasters in Statistics & DS",
                            "Cloud Data Engineering (GCP / Azure)"]
         self.stack      = ["Python", "SQL", "BigQuery", "Power BI"]
-        self.fueled_by  = ["☕", "chess ♞", "photography 📷"]
+        self.fueled_by  = ["coffee", "chess", "photography"]
 
     def current_focus(self):
         return "Building analytics infrastructure end-to-end — \
@@ -53,8 +53,8 @@ class RubenEstrada:
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rubenstrada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenstrada&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 <br>
