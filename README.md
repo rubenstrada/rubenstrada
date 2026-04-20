@@ -50,20 +50,18 @@ class RubenEstrada:
 
 <br>
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rubenstrada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenstrada&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
-<br>
-
 ### 🎯 Currently working on
 
 - Probabilistic modeling & Bayesian inference — *MITx 6.431x*
 - Analytics engineering patterns (dimensional modeling, pre-aggregated tables)
 - Moving from dashboards → predictive models in production
+
+<br>
+
+### 📫 Let's connect
+
+- Open to Data Analyst / Analytics Engineer roles in industrial & tech corporations
+- Reach out via [LinkedIn](https://www.linkedin.com/in/TU-USUARIO) · *(replace with your LinkedIn URL)*
 
 <br>
 
