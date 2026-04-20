@@ -1,9 +1,12 @@
-# Ruben Estrada
+<h1 align="center">Ruben Estrada</h1>
 
-Data Analyst focused on Python, SQL, Machine Learning, and Data Science.
+<p align="center">
+  Data Analyst focused on Python, SQL, Machine Learning, and Data Science
+</p>
 
-## About
-I share notes, queries, and projects related to data analysis, cloud tools, and applied problem solving.
+<p align="center">
+  I build and organize notes, queries, and projects related to analytics, cloud tools, and applied problem solving.
+</p>
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -18,7 +21,7 @@ I share notes, queries, and projects related to data analysis, cloud tools, and 
 - Statistical Modeling
 - Data Engineering
 
-## What I Work On
+## Current Focus
 - Data workflows and cloud-related projects
 - Analytics notes and BigQuery queries
 - Technical documentation and project material
