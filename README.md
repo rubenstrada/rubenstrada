@@ -4,27 +4,33 @@
 
 Building analytics infrastructure for logistics & transportation — from raw ERP extracts to executive dashboards, and now moving toward predictive modeling in production.
 
----
+<br>
+
+<img align="right" alt="coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### About me
 
 ```python
-ruben = {
-    "role":      "Data Analyst",
-    "next_step": "Data Scientist",
-    "industry":  "Logistics & Transportation",
-    "focus":     [
-        "Analytics engineering (dimensional modeling, BI)",
-        "Applied statistics & probabilistic modeling",
-        "Cloud data platforms (BigQuery, GCP, Azure)",
-    ],
-    "studying":  "MITx MicroMasters — Statistics & Data Science",
-    "certified": "IBM Data Engineering Professional Certificate",
-    "open_to":   "Data Analyst / Data Scientist roles @ industrial & tech corps",
-}
+class Ruben:
+    role      = "Data Analyst"
+    next_step = "Data Scientist"
+    based_in  = "Monterrey, MX"
+    industry  = "Logistics & Transportation"
+
+    focus = [
+        "Analytics engineering",
+        "Applied statistics",
+        "Cloud data platforms",
+    ]
+
+    studying  = "MITx — Statistics & Data Science"
+    certified = "IBM Data Engineering"
+
+    def open_to(self):
+        return "DA / DS roles @ industrial & tech corps"
 ```
 
----
+<br clear="both">
 
 ### Tech Stack
 
@@ -50,7 +56,7 @@ ruben = {
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+<br>
 
 ### Currently
 
@@ -58,7 +64,7 @@ ruben = {
 - Analytics engineering patterns (dimensional modeling, pre-aggregated tables)
 - Building a portfolio of end-to-end ML projects
 
----
+<br>
 
 ### Connect
 
