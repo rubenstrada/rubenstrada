@@ -14,8 +14,9 @@ Building analytics infrastructure for logistics and transportation, from ERP-bas
 - Based in Monterrey, Mexico
 - Focused on analytics engineering, applied statistics, and cloud data platforms
 - Working in logistics and transportation
-- Studying **MITx — Statistics & Data Science**
-- Certified in **IBM Data Engineering**
+- Certified in **MITx — Probability: The Science of Uncertainty and Data**
+- Certified in **Google Cloud — BigQuery for Data Analysts**
+- Certified in **IBM — Introduction to Data Engineering**
 - Open to **Data Analyst / Data Scientist** roles in industrial and tech companies
 
 <br clear="right"/>
