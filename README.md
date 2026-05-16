@@ -58,7 +58,7 @@ Building analytics infrastructure for logistics and transportation, from ERP-bas
 <p>
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="20" /> Power BI
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/looker/4285F4" alt="Looker Studio" width="20" /> Looker Studio
+  <img src="https://cdn.simpleicons.org/looker/4285F4" alt="Looker Studio" width="20" /> Data Studio
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="20" /> Git
 </p>
